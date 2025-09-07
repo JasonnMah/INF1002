@@ -1,2 +1,7 @@
-Hello GitHub! This is my first file from VSCode 🚀
+LOCAL: Edited in feature branch
 This line was added directly from Github's website 🌐
+
+
+Commit = Record changes locally
+Push   = Send your local commits to GitHub
+Pull   = Bring changes from GitHub back into local repo
