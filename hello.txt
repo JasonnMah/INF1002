@@ -1,4 +1,4 @@
-LOCAL: Edited in feature branch
+REMOTE: Edited directly on GitHub main
 This line was added directly from Github's website 🌐
 
 
