@@ -1,2 +1,19 @@
 REMOTE: Edited directly on GitHub main
 This line was added directly from Github's website 🌐
+
+
+--- Things to note ---
+
+Commit = record changes locally (In VSCode)
+Push   = send local commits to GitHub
+Pull   = bring changes from GitHub back into local repo
+
+- Always save files before committing.
+- If VSCode warns about conflicts -- VSCode gives buttons to 
+  accept Current/Incoming/Both -- use them.
+- If feeling lost, use 'git status' to tell exactly what Git 
+  expects next. Use it often
+
+git add hello.txt
+git commit -m "message"
+git push 
