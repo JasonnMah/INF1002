@@ -1,0 +1,1 @@
+This is second.txt - created for merge practice.
