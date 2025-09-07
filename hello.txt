@@ -1,2 +1,2 @@
-Hello GitHub! This is my first file from VSCode 🚀
+REMOTE: Edited directly on GitHub main
 This line was added directly from Github's website 🌐
